@@ -1,6 +1,6 @@
-# Shu’s Website
+# zeroslope's Website
 
-[shud.in](https://shud.in)
+拷贝自[shud.in](https://shud.in)
 
 ## Development
 - Install `yarn` from [yarnpkg.org](https://yarnpkg.org)
